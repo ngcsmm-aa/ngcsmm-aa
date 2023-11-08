@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Ngcsmm's GitHub stats](https://github-readme-stats-bot.vercel.app/api?username=ngcsmm&show_icons=true&theme=transparent)
+
 
 <!--
 **ngcsmm-aa/ngcsmm-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
