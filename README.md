@@ -3,6 +3,11 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&show_icons=true&theme=radical)  &nbsp; &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngcsmm-aa&layout=compact&theme=radical) 
 
+<div align="center">
+  <img src="https://github.com/github.png" alt="GitHub Logo" width="50" height="50">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&show_icons=true&theme=radical">
+</div>
 
 <!--
 **ngcsmm-aa/ngcsmm-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
