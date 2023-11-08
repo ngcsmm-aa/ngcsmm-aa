@@ -3,11 +3,6 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&show_icons=true&theme=radical)  &nbsp; &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngcsmm-aa&layout=compact&theme=radical) 
 
-<div align="center">
-  <img src="https://your-github-logo-url.png" alt="GitHub Logo" width="50" height="50">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&show_icons=true&theme=radical&hide_rank=true">
-</div>
 
 
 <!--
