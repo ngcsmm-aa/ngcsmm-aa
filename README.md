@@ -2,8 +2,6 @@
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&rank_icon=github&theme=radical)  &nbsp; &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngcsmm-aa&layout=compact&theme=radical) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
 <!-- ![GitHub Logo](https://github.com/github.png)  -->
 
 
