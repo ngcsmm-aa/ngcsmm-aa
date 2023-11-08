@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Your GitHub Statistics](https://.github/workflows/update-readme.yml)
+![Your GitHub Statistics](https://github/workflows/update-readme.yml)
 
 <!--
 **ngcsmm-aa/ngcsmm-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
