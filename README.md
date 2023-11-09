@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&rank_icon=github&theme=radical)  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngcsmm-aa&layout=compact&theme=radical) 
-<!-- ![GitHub Logo](https://github.com/github.png)  &nbsp; &nbsp;  &nbsp; -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&rank_icon=github&theme=radical)   &nbsp; &nbsp;  &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngcsmm-aa&layout=compact&theme=radical) 
+<!-- ![GitHub Logo](https://github.com/github.png)  -->
 
 
 
