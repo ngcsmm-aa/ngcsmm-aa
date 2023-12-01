@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&rank_icon=github&theme=radical)  &nbsp; &nbsp;  &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngcsmm-aa&layout=compact&theme=radical) 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&show_icon=github&theme=radical)  &nbsp; &nbsp;  &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngcsmm-aa&layout=compact&theme=radical) 
 <!-- ![GitHub Logo](https://github.com/github.png)  -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=github&theme=radical)
 
 
 
