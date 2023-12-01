@@ -11,7 +11,7 @@
    </th>
 
    <th>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://camo.githubusercontent.com/950c3c1cb3bb2b5d6e4d70a6c417c29ccf283eb3261b76c0da40c0059ec86afa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7175616e6770616f266c61796f75743d636f6d70616374267468656d653d67727576626f7826686964655f626f726465723d7472756526686964653d6373732c736373732c68746d6c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngcsmm-aa&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;hide=css,scss,html" style="max-width: 100%;"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngcsmm-aa&layout=compact&theme=radical";layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;hide=css,scss,html" style="max-width: 100%;"></a>
    </th>
   </tr>
  </thread>
