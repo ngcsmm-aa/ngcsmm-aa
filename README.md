@@ -7,7 +7,7 @@
  <thread>
   <tr>
    <th>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://camo.githubusercontent.com/2b2b3fde8f1b845c3fa27db64110c19be0c2051322da48f3395794098d5091f4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7175616e6770616f2673686f775f69636f6e733d74727565267468656d653d67727576626f7826686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true&amp;include_all_commits=true" style="max-width: 100%;"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&rank_icon=github&theme=radical" style="max-width: 100%;"></a>
    </th>
 
    <th>
