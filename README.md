@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<table>
+<!--   <table>
  <thread>
   <tr>
    <th>
@@ -12,7 +12,7 @@
    </th>
   </tr>
  </thread>
-</table> 
+</table> -->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
