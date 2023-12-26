@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<!--   <table>
+ <table>
  <thread>
   <tr>
    <th>
@@ -12,9 +11,9 @@
    </th>
   </tr>
  </thread>
-</table> -->
+</table> 
 
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ngcsmm-aa&rank_icon=github&theme=radical" style="max-width: 100%" />
 </a>
@@ -22,7 +21,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngcsmm-aa&layout=compact&theme=radical";layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;hide=css,scss,html" style="max-width: 100%" />
 </a>
 
-
+-->
 
 
 <!--
